@@ -14,7 +14,7 @@ Statements：
 1.The user will be able to begin rock paper scissors by click the start botton from the main slide.
 2.The user will play against a computer that will randomly choose between rock, paper, and scissors.
 3.The first to win 3 out of 5 matches will be the winner, and each match will run by best-of-three.
-4.The user will have three image options to choose from, rock, paper, scissors.
+4.The user will have three image options to choose from, rock, paper, scissors..
 5.There will be a 3 second time limit（with a countdown animation) for the user to make their choice.
 6.The user can directly get the current score of the game (including the total score and the authority score) through the scoreboard on both sides of the screen.
 7.The winner will be announced on the screen and there will be a prompt to continue to the next round.
