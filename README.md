@@ -12,7 +12,9 @@ We will make a rock-paper-scissors game simulator, which will give the player an
 
 Statements：
 1.The user will see the start screen with the start, leaderboard, and rules options.
+
 2.The user will be able to begin rock paper scissors by click the start button from the main slide.
+
 3.The user will have to enter their username for entry in the leaderboard.
 4.The user will play against a computer that will randomly choose between rock, paper, and scissors based on random numbers that correlate to each option.
 5.The first to win 3 out of 5 matches will be the winner, and each match will run by best-of-three rounds.
